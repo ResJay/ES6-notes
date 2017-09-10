@@ -39,3 +39,4 @@ foo.prop = 123;
 浏览器和 Web Worker 里面，self也指向顶层对象，但是 Node 没有self。
 Node 里面，顶层对象是global，但其他环境都不支持。
 ``
+
